@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+
+}
+
+
+
+.navDiv{
+    float: left;
+    width: 20%;
+    height: 100vh;
+    background-color: red;
+    
+}
+
+
+
+.header{
+    width: 80%;
+    background-color: aqua;
+    height: 20vh;
+    float: left;
+}
+
+.article{
+    width: 60%;
+    background-color: blueviolet;
+    height: 60vh;
+    float: left;
+    padding: 10px;
+    overflow-y: scroll;
+}
+
+.aside{
+    width: 20%;
+    background-color: black;
+    height: 80vh;
+    float: left;
+   
+    
+}
+
+.footer{
+    width: 60%;
+    background-color: aqua;
+    height: 20vh;
+    float: left;
+    
+    
+    
+}
+
